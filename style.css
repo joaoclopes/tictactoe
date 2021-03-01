@@ -1,0 +1,12 @@
+.space{
+    width: 120px;
+    height: 70px;
+    border: 4px solid black;
+    float: left;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.tab {
+    width: 496px;
+}
